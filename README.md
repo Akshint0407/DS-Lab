@@ -25,26 +25,26 @@ This repository provides practical solutions and code samples for common Data Sc
 6. **Classification – Naive Bayes (I):**  
    Perform classification using the Naive Bayes algorithm on the `iris.csv` dataset.
 
-7. **Text Analytics**
-   i. Extract sample documents and apply the following document preprocessing methods:  
+7. **Text Analytics – To perform text extraction and preprocessing on text using NLTK methods:**
+   1. Extract sample documents and apply the following document preprocessing methods:  
       - Tokenization  
       - POS Tagging  
       - Stop Words Removal  
       - Stemming  
       - Lemmatization  
-  ii. Represent documents using:  
+   2. Represent documents using:  
       - **Term Frequency (TF)**  
       - **Inverse Document Frequency (IDF)**  
 
-8. **Data Visualization I**
-   **Aim:**  
-   1. Use the inbuilt `titanic` dataset to explore passenger data using **Seaborn**.  
-   2. Plot a histogram to show the distribution of **ticket fare** (`fare` column).
+8. **Data Visualization(I) – Titanic Dataset:**
+   To perform Data Visualization:
+      1. Use the inbuilt `titanic` dataset to explore passenger data using **Seaborn**.  
+      2. Plot a histogram to show the distribution of **ticket fare** (`fare` column).
    
-9. **Data Visualization – Titanic Dataset (II):**  
+10. **Data Visualization(II) – Titanic Dataset:**  
    Additional visualizations on the Titanic dataset for deeper insights and practice.
 
-10. **Data Visualization – Iris Dataset:**  
+11. **Data Visualization(III) – Iris Dataset:**  
     Create various visualizations (scatter plots, pair plots, etc.) on the Iris dataset to explore relationships between features.
 
 ---
