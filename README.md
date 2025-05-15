@@ -25,12 +25,22 @@ This repository provides practical solutions and code samples for common Data Sc
 6. **Classification – Naive Bayes (I):**  
    Perform classification using the Naive Bayes algorithm on the `iris.csv` dataset.
 
-7. **Classification – Naive Bayes (II):**  
-   Repeat Naive Bayes classification on the `iris.csv` dataset to reinforce understanding.
+7. **Text Analytics**
+   i. Extract sample documents and apply the following document preprocessing methods:  
+      - Tokenization  
+      - POS Tagging  
+      - Stop Words Removal  
+      - Stemming  
+      - Lemmatization  
+  ii. Represent documents using:  
+      - **Term Frequency (TF)**  
+      - **Inverse Document Frequency (IDF)**  
 
-8. **Data Visualization – Titanic Dataset (I):**  
-   Visualize the Titanic dataset using Python libraries such as Matplotlib and Seaborn. Includes plots like histograms, bar plots, and survival analysis.
-
+8. **Data Visualization I**
+   **Aim:**  
+   1. Use the inbuilt `titanic` dataset to explore passenger data using **Seaborn**.  
+   2. Plot a histogram to show the distribution of **ticket fare** (`fare` column).
+   
 9. **Data Visualization – Titanic Dataset (II):**  
    Additional visualizations on the Titanic dataset for deeper insights and practice.
 
@@ -57,7 +67,7 @@ Contributions are welcome! If you have improved solutions or additional practica
 ## ⭐ Support
 
 If you find this repository helpful, please star it and share with your classmates.  
-For questions or suggestions, open an issue or contact the maintainer.
+For questions or suggestions, open an issue!
 
 ---
 
